@@ -15,6 +15,11 @@ app.get('/', (req, res)=>{
 app.get('/courses', (req, res)=>{
     res.send(courses);
 })
+app.get('/course/:id', (req, res)=>{
+    const id = req.params.id;
+    const selectCourse = courses.find(c => c.id == id);
+    res.send(selectCourse);
+})
 
 app.listen( port, (req, res)=>{
     console.log(`digital learning platform server load ${port}`)

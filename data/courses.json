@@ -2,31 +2,31 @@
     {
       "id": "01",
       "name": "HTML",
-      "picture": "http://placehold.it/32x32"
+      "picture": "https://i.ibb.co/cYns8J2/html.png"
     },
     {
       "id": "02",
       "name": "CSS",
-      "picture": "http://placehold.it/32x32"
+      "picture": "https://i.ibb.co/LkyGY5w/css.png"
     },
     {
       "id": "03",
       "name": "Bootstrap",
-      "picture": "http://placehold.it/32x32"
+      "picture": "https://i.ibb.co/9Wv1H15/Bootstrap.png"
     },
     {
       "id": "04",
-      "name": "Jquery",
-      "picture": "http://placehold.it/32x32"
+      "name": "react js",
+      "picture": "https://i.ibb.co/Lg3Syv1/react-js.png"
     },
     {
       "id": "05",
-      "name": "React js",
-      "picture": "http://placehold.it/32x32"
+      "name": "JavaScript",
+      "picture": "https://i.ibb.co/JRQ5ccz/java-Script.png"
     },
     {
       "id": "06",
       "name": "firebase",
-      "picture": "http://placehold.it/32x32"
+      "picture": "https://i.ibb.co/mbgV2M9/firebase.png"
     }
   ]
