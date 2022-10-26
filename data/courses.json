@@ -1,68 +1,86 @@
 [
     {
       "id": "01",
-      "name": "HTML",
+      "course_name": "HTML",
       "picture": "https://i.ibb.co/cYns8J2/html.png",
       "about": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript. HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects such as interactive forms may be embedded into the rendered page. HTML provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes and other items. page. Other tags such as <p> surround and provide information about document text and may include other tags as sub-elements. Browsers do not display the HTML tags but use them to interpret the content of the page.",
       "author": {
         "name": "Ashik mahmud",
-        "published_date": "2022-08-24 17:27:34",
+        "job": "Instructor",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      }
+      },
+      "lesson": "30+ lesson",
+      "class_time": "40hr 50min",
+      "course_free": "$400"
     },
     {
       "id": "02",
-      "name": "CSS",
+      "course_name": "CSS",
       "picture": "https://i.ibb.co/LkyGY5w/css.png",
       "about": "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML).[1] CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. CSS is designed to enable the separation of content and presentation, including layout, colors, and fonts.[3] This separation can improve content accessibility; provide more flexibility and control in the specification of presentation characteristics; enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, which reduces complexity and repetition in the structural content; and enable the .css file to be cached to improve the page load speed between the pages that share the file and its formatting.",
       "author": {
         "name": "Jimmy Dane",
-        "published_date": "2022-08-24 17:27:34",
+        "job": "Instructor",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      }
+      },
+      "lesson": "30+ lesson",
+      "class_time": "40hr 50min",
+      "course_free": "$400"
     },
     {
       "id": "03",
-      "name": "BOOTSTRAP",
+      "course_name": "BOOTSTRAP",
       "picture": "https://i.ibb.co/9Wv1H15/Bootstrap.png",
       "about": "Get started with Bootstrap, the world’s most popular framework for building responsive, mobile-first sites, with jsDelivr and a template starter page.Bootstrap employs a handful of important global styles and settings that you’ll need to be aware of when using it, all of which are almost exclusively geared towards the normalization of cross browser styles. Let’s dive in.Bootstrap requires the use of the HTML5 doctype. Without it, you’ll see some funky incomplete styling, but including it shouldn’t cause any considerable hiccups.",
       "author": {
         "name": "Jimmy Dane",
-        "published_date": "2022-08-24 17:27:34",
+        "job": "Instructor",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      }
+      },
+      "lesson": "30+ lesson",
+      "class_time": "40hr 50min",
+      "course_free": "$400"
     },
     {
       "id": "04",
-      "name": "REACT-JS",
+      "course_name": "REACT-JS",
       "picture": "https://i.ibb.co/Lg3Syv1/react-js.png",
       "about": "This page is an overview of the React documentation and related resources.React is a JavaScript library for building user interfaces. Learn what React is all about on our homepage or in the tutorial.React has been designed from the start for gradual adoption, and you can use as little or as much React as you need. Whether you want to get a taste of React, add some interactivity to a simple HTML page, or start a complex React-powered app, the links in this section will help you get started.If you prefer to use your own text editor, you can also download this HTML file, edit it, and open it from the local filesystem in your browser. It does a slow runtime code transformation, so we’d only recommend using this for simple demos.",
       "author": {
         "name": "Jimmy Dane",
-        "published_date": "2022-08-24 17:27:34",
+        "job": "Instructor",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      }
+      },
+      "lesson": "30+ lesson",
+      "class_time": "40hr 50min",
+      "course_free": "$400"
     },
     {
       "id": "05",
-      "name": "JavaScript",
+      "course_name": "JavaScript",
       "picture": "https://i.ibb.co/JRQ5ccz/java-Script.png",
       "about": "JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Read more about JavaScript.The standards for JavaScript are the ECMAScript Language Specification (ECMA-262) and the ECMAScript Internationalization API specification (ECMA-402). As soon as one browser implements a feature, we try to document it. This means that cases where some proposals for new ECMAScript features have already been implemented in browsers, documentation and examples in MDN articles may use some of those new features. Most of the time, this happens between the stages 3 and 4, and is usually before the spec is officially published.",
       "author": {
         "name": "Jimmy Dane",
-        "published_date": "2022-08-24 17:27:34",
+        "job": "Instructor",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      }
+      },
+      "lesson": "30+ lesson",
+      "class_time": "40hr 50min",
+      "course_free": "$400"
     },
     {
       "id": "06",
-      "name": "FIREBASE",
+      "course_name": "FIREBASE",
       "picture": "https://i.ibb.co/mbgV2M9/firebase.png",
       "about": "Firebase is a set of hosting services for any type of application. It offers NoSQL and real-time hosting of databases, content, social authentication, and notifications, or services, such as a real-time communication server.Firebase helps you develop high-quality apps, grow your user base, and earn more money. Each feature works independently, and they work even better together.The Firebase Realtime Database is a cloud-hosted database. Data is stored as JSON and synchronized in realtime to every connected client.Firebase is great for quick projects: it's easy to set up, fast, in many cases requires only front-end logic. It lets you focus on your app instead of implementing custom authentication, web sockets or database connections.",
       "author": {
         "name": "Jimmy Dane",
-        "published_date": "2022-08-24 17:27:34",
+        "job": "Instructor",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      }
+      },
+      "lesson": "30+ lesson",
+      "class_time": "40hr 50min",
+      "course_free": "$400"
     }
   ]
