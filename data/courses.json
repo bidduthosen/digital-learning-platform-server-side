@@ -3,43 +3,43 @@
       "id": "01",
       "course_name": "HTML",
       "picture": "https://i.ibb.co/cYns8J2/html.png",
-      "about": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript. HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects such as interactive forms may be embedded into the rendered page. HTML provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes and other items. page. Other tags such as <p> surround and provide information about document text and may include other tags as sub-elements. Browsers do not display the HTML tags but use them to interpret the content of the page.",
+      "about": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript. HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects such as interactive forms may be embedded into the rendered page. HTML provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes and other items. page. Other tags such as <p> surround and provide information about document text and may include other tags as sub-elements. Browsers do not display the HTML tags but use them to interpret the content of the page. When the user clicks on the widget or focuses it then presses the space bar, it open, revealing its contents. The common use of a triangle which rotates or twists around to represent opening or closing the widget is why these are sometimes called. You can use CSS to style the disclosure widget, and you can programmatically open and close the widget by setting/removing its open attribute. Unfortunately, at this time there's no built-in way to animate the transition between open and closed.",
       "author": {
-        "name": "Ashik mahmud",
+        "name": "Ashik Billah",
         "job": "Instructor",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        "img": "https://i.ibb.co/Q9tLcnM/MG-2662.jpg"
       },
       "lesson": "30+ lesson",
       "class_time": "40hr 50min",
-      "course_free": "$400"
+      "course_free": "$180"
     },
     {
       "id": "02",
       "course_name": "CSS",
       "picture": "https://i.ibb.co/LkyGY5w/css.png",
-      "about": "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML).[1] CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. CSS is designed to enable the separation of content and presentation, including layout, colors, and fonts.[3] This separation can improve content accessibility; provide more flexibility and control in the specification of presentation characteristics; enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, which reduces complexity and repetition in the structural content; and enable the .css file to be cached to improve the page load speed between the pages that share the file and its formatting.",
+      "about": "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML).[1] CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. CSS is designed to enable the separation of content and presentation, including layout, colors, and fonts.[3] This separation can improve content accessibility; provide more flexibility and control in the specification of presentation characteristics; enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, which reduces complexity and repetition in the structural content; and enable the .css file to be cached to improve the page load speed between the pages that share the file and its formatting. This course breaks down the fundamentals of CSS into digestible, easy to understand pieces. Over the next few modules, you'll learn how the core aspects of CSS work and how to use them effectively in your projects. Use the menu pane by the  logo to navigate the modules.Each module is full of interactive demos and self-assessments for you to test your knowledge. In addition to learning through reading and demos, there is an accompanying podcast episode for each topic as another way to learn and continue expanding your knowledge.This course is created for beginner and advanced CSS developers alike. You can go through the series from start to finish to get a general understanding of CSS from top to bottom, or you can use it as a reference for specific styling subjects. For those new to web development overall, check out the intro to HTML course from MDN to learn all about how to write markup and link your stylesheets.",
       "author": {
-        "name": "Jimmy Dane",
+        "name": "Biddut hosen",
         "job": "Instructor",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        "img": "https://i.ibb.co/nDHTYTG/1578813101622.png"
       },
       "lesson": "30+ lesson",
       "class_time": "40hr 50min",
-      "course_free": "$400"
+      "course_free": "$540"
     },
     {
       "id": "03",
       "course_name": "BOOTSTRAP",
       "picture": "https://i.ibb.co/9Wv1H15/Bootstrap.png",
-      "about": "Get started with Bootstrap, the world’s most popular framework for building responsive, mobile-first sites, with jsDelivr and a template starter page.Bootstrap employs a handful of important global styles and settings that you’ll need to be aware of when using it, all of which are almost exclusively geared towards the normalization of cross browser styles. Let’s dive in.Bootstrap requires the use of the HTML5 doctype. Without it, you’ll see some funky incomplete styling, but including it shouldn’t cause any considerable hiccups.",
+      "about": "Get started with Bootstrap, the world’s most popular framework for building responsive, mobile-first sites, with jsDelivr and a template starter page.Bootstrap employs a handful of important global styles and settings that you’ll need to be aware of when using it, all of which are almost exclusively geared towards the normalization of cross browser styles. Let’s dive in.Bootstrap requires the use of the HTML5 doctype. Without it, you’ll see some funky incomplete styling, but including it shouldn’t cause any considerable hiccups. Bootstrap 5 is evolving with each release to better utilize CSS variables for global theme styles, individual components, and even utilities. We provide dozens of variables for colors, font styles, and more at a :root level for use anywhere. On components and utilities, CSS variables are scoped to the relevant class and can easily be modified. New in Bootstrap 5, our utilities are now generated by our Utility API. We built it as a feature-packed Sass map that can be quickly and easily customized. It's never been easier to add, remove, or modify any utility classes. Make utilities responsive, add pseudo-class variants, and give them custom names. Easily add toggleable hidden elements, modals and offcanvas menus, popovers and tooltips, and so much more—all without jQuery. JavaScript in Bootstrap is HTML-first, which means adding plugins is as easy as adding data attributes. Need more control? Include individual plugins programmatically. Bootstrap Icons is an open source SVG icon library featuring over 1,500 glyphs, with more added every release. They're designed to work in any project, whether you use Bootstrap itself or not. Use them as SVGs or icon fonts—both options give you vector scaling and easy customization via CSS.",
       "author": {
-        "name": "Jimmy Dane",
+        "name": "Pcd Pranto",
         "job": "Instructor",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        "img": "https://i.ibb.co/PcsjGQh/IMG20211212125602.jpg"
       },
       "lesson": "30+ lesson",
       "class_time": "40hr 50min",
-      "course_free": "$400"
+      "course_free": "$340"
     },
     {
       "id": "04",
@@ -47,13 +47,13 @@
       "picture": "https://i.ibb.co/Lg3Syv1/react-js.png",
       "about": "This page is an overview of the React documentation and related resources.React is a JavaScript library for building user interfaces. Learn what React is all about on our homepage or in the tutorial.React has been designed from the start for gradual adoption, and you can use as little or as much React as you need. Whether you want to get a taste of React, add some interactivity to a simple HTML page, or start a complex React-powered app, the links in this section will help you get started.If you prefer to use your own text editor, you can also download this HTML file, edit it, and open it from the local filesystem in your browser. It does a slow runtime code transformation, so we’d only recommend using this for simple demos.",
       "author": {
-        "name": "Jimmy Dane",
+        "name": "jubair ansari",
         "job": "Instructor",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        "img": "https://i.ibb.co/61FGSRr/IMG-20220118-171513.jpg"
       },
       "lesson": "30+ lesson",
       "class_time": "40hr 50min",
-      "course_free": "$400"
+      "course_free": "$290"
     },
     {
       "id": "05",
@@ -61,13 +61,13 @@
       "picture": "https://i.ibb.co/JRQ5ccz/java-Script.png",
       "about": "JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Read more about JavaScript.The standards for JavaScript are the ECMAScript Language Specification (ECMA-262) and the ECMAScript Internationalization API specification (ECMA-402). As soon as one browser implements a feature, we try to document it. This means that cases where some proposals for new ECMAScript features have already been implemented in browsers, documentation and examples in MDN articles may use some of those new features. Most of the time, this happens between the stages 3 and 4, and is usually before the spec is officially published.",
       "author": {
-        "name": "Jimmy Dane",
+        "name": "jankar mahbub",
         "job": "Instructor",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        "img": "https://i.ibb.co/g7Vqfcg/teacher.png"
       },
       "lesson": "30+ lesson",
       "class_time": "40hr 50min",
-      "course_free": "$400"
+      "course_free": "$380"
     },
     {
       "id": "06",
@@ -75,12 +75,12 @@
       "picture": "https://i.ibb.co/mbgV2M9/firebase.png",
       "about": "Firebase is a set of hosting services for any type of application. It offers NoSQL and real-time hosting of databases, content, social authentication, and notifications, or services, such as a real-time communication server.Firebase helps you develop high-quality apps, grow your user base, and earn more money. Each feature works independently, and they work even better together.The Firebase Realtime Database is a cloud-hosted database. Data is stored as JSON and synchronized in realtime to every connected client.Firebase is great for quick projects: it's easy to set up, fast, in many cases requires only front-end logic. It lets you focus on your app instead of implementing custom authentication, web sockets or database connections.",
       "author": {
-        "name": "Jimmy Dane",
+        "name": "Mamun hasan",
         "job": "Instructor",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        "img": "https://i.ibb.co/ZcwK2m8/IMG-20210626-0841-removebg-preview.png"
       },
       "lesson": "30+ lesson",
       "class_time": "40hr 50min",
-      "course_free": "$400"
+      "course_free": "$490"
     }
   ]
